@@ -49,12 +49,21 @@ const myProjects = [
   },
     {
     id: 6,
-    title: "Todo App",
-    description: "Todo app to keep track of lists and todo items",
-    image: "./projects/frontendProjects3.png",
+    title: "Frontend Developer Portfolio",
+    description: "Final project for Intro to Programming Course at Code the Dream.",
+    image: "./projects/frontendProjects4.png",
     tags: ["Frontend"],
     demoURL: "https://tianna-spears.github.io/zeroToHero1/",
     githubURL: "https://github.com/tianna-spears/zeroToHero1",
+  },
+      {
+    id: 7,
+    title: "Todo App",
+    description: "Todo app to track lists and todo items",
+    image: "./projects/frontendProjects3.png",
+    tags: ["Frontend"],
+    demoURL: "https://tianna-spears.github.io/portfolio/",
+    githubURL: "https://github.com/tianna-spears/portfolio",
   },
 
 ]
