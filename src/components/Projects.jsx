@@ -53,8 +53,8 @@ const myProjects = [
     description: "Final project for Intro to Programming Course at Code the Dream.",
     image: "./projects/frontendProjects4.png",
     tags: ["Frontend"],
-    demoURL: "https://tianna-spears.github.io/zeroToHero1/",
-    githubURL: "https://github.com/tianna-spears/zeroToHero1",
+    demoURL: "https://tianna-spears.github.io/portfolio/",
+    githubURL: "https://github.com/tianna-spears/portfolio",
   },
       {
     id: 7,
@@ -62,8 +62,9 @@ const myProjects = [
     description: "Todo app to track lists and todo items",
     image: "./projects/frontendProjects3.png",
     tags: ["Frontend"],
-    demoURL: "https://tianna-spears.github.io/portfolio/",
-    githubURL: "https://github.com/tianna-spears/portfolio",
+        demoURL: "https://tianna-spears.github.io/zeroToHero1/",
+    githubURL: "https://github.com/tianna-spears/zeroToHero1",
+
   },
 
 ]
